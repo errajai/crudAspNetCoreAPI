@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAngular6AndASPNetCoreAPI", "CRUDAngular6AndASPNetCoreAPI\CRUDAngular6AndASPNetCoreAPI.csproj", "{AEBC8613-F231-4479-95ED-E9DEAB5D504F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEBC8613-F231-4479-95ED-E9DEAB5D504F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEBC8613-F231-4479-95ED-E9DEAB5D504F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEBC8613-F231-4479-95ED-E9DEAB5D504F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEBC8613-F231-4479-95ED-E9DEAB5D504F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B5E4615-957F-4513-945D-988FCF7CE63B}
+	EndGlobalSection
+EndGlobal
